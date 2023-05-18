@@ -1,0 +1,33 @@
+body{
+    margin-top:20%;
+    margin-bottom:20%;
+}
+.container{
+    background-color:rgba(128, 128, 128, 0.151);
+    width:100%;
+}
+
+.inner-banner{
+    background-image:url("https://images.pexels.com/photos/1458694/pexels-photo-1458694.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat:no-repeat;
+    width:70%;
+    height:500px;
+    background-size:cover;
+    opacity:0.5;
+}
+.text{
+    padding-top:30%;
+    padding-left:10%;
+}
+.tex{
+    color:orangered;
+}
+.btn-Cart{
+    background-color: rgba(255, 68, 0, 0.808);
+    width:200px;
+}
+a{
+    text-decoration-line: none;
+    color:white;
+    margin:15px;
+}
