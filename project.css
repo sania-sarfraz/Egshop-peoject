@@ -26,6 +26,7 @@
     font-family:sans-serif;
 
 }
+
 .col1{
     background-image:url("https://demo.egenslab.com/html/eg-shop-grocery/assets/images/banner/offer-banner1.jpg");
     width:350px;
@@ -56,6 +57,11 @@
     height:200px;
      width:250px;
      background-color: rgba(255, 255, 255, 0.671);
+}
+.rounded-circle:hover{
+    animation-delay:0s;
+    float:right;
+    padding-right:3px;
 }
 .bg-image{
     background-image:url("https://demo.egenslab.com/html/eg-shop-grocery/assets/images/products/product-sm4.png");
